@@ -1,0 +1,39 @@
+h1{
+    background-color: rgb(206, 206, 131);
+    color: white;
+    text-align : center;
+    padding: 50px;
+}
+.icon{
+text-align: center;
+ }
+ body{
+    background-color: #FFFFFF;
+ }
+ h3{
+    text-align: center;
+    background-color: rgb(219, 159, 219);
+    color: white;
+    padding: 30px;
+ }
+ h5{
+    text-align: center;
+ }
+ .twitter li a{
+    display: flex;
+ }
+
+ header{
+    display: flex;
+    padding: 15px;
+    color: white;
+    justify-content: space-between;
+    background-color:rgb(126, 139, 157) ;
+ }
+ header ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 20px;
+ }
